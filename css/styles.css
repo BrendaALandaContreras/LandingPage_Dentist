@@ -40,5 +40,10 @@
 
 .form-contacto { max-width: 720px; }
 
+.required::after {
+    content: " *";
+    color: red;
+}
+
 a.enlace-social { transition: color .3s ease; }
 a.enlace-social:hover { color: var(--azul-confianza); }
