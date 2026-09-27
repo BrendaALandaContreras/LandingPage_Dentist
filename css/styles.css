@@ -40,9 +40,9 @@
 
 .form-contacto { max-width: 720px; }
 
-.form-label:has(+ .form-control[required])::after {
+.form-label:has(+ [required])::after {
     content: " *";
-    color: #dc3545; 
+    color: #dc3545;
     font-weight: bold;
 }
 
