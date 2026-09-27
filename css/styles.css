@@ -40,7 +40,7 @@
 
 .form-contacto { max-width: 720px; }
 
-.required::after {
+.form-contacto.required::after {
     content: " *";
     color: red;
 }
