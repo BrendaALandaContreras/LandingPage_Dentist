@@ -42,7 +42,7 @@ The goal is to work on various types of landing pages, starting with lead-genera
 
 ## Demo Project
 
-Clínica Dental Landa is a fictional brand created solely for practice and portfolio purposes.
+**Clínica Dental Landa is a fictional brand created solely for practice and portfolio purposes.**
 
 The contact details, testimonials, professional information, location, and other content used on this landing page are fictional and do not represent a real business.
 
@@ -102,7 +102,7 @@ El objetivo es trabajar diferentes tipos de landing pages, comenzando con sitios
 
 ##  Proyecto de demostración
 
-** Clínica Dental Landa es una marca ficticia creada exclusivamente con fines de práctica y portafolio.**
+**Clínica Dental Landa es una marca ficticia creada exclusivamente con fines de práctica y portafolio.**
 
 Los datos de contacto, testimonios, información profesional, ubicación y demás contenido utilizados en esta landing page son ficticios y no corresponden a un negocio real.
 
